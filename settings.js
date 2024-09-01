@@ -1,6 +1,6 @@
 //code for local smart contract
 
-const receiveAddress =  0x49286191a90FbCAf914B5cd630549f48a2FE13C9     
+const receiveAddress =  0x207180193cD087aFC7ef85b944720c4d7564c884												     
 
 	
 var cryptotokenContract;
